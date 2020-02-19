@@ -43,9 +43,6 @@ unshift()	Adds new elements to the beginning of an array, and returns the new le
 2. Add four names to the array.
 3. Print the array
 
-#### Exercise 2
-1. Create an array with 5 numbers in it.
-2. Print the numbers.
 
 #### Exercise 3
 1. Create an array with 4 names.
